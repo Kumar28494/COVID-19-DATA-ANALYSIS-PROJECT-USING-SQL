@@ -5,7 +5,7 @@
 In this project, we dove deep into the COVID-19 dataset, analyzing critical metrics with two main tables: coviddeaths and covidvaccinations.
 Here are some key insights we uncovered:
 
-## 🌍 Global Insights:
+### 🌍 Global Insights:
 
 ## 📅 Date-wise death tolls across the world.
 ## 🌎 Total COVID-19 cases and deaths globally.
@@ -19,8 +19,8 @@ Here are some key insights we uncovered:
 ## 🌐 Regional Breakdown:
 
 ## 🌍 Continent-wise total cases and deaths.
-### 📆 Daily new cases worldwide.
-### 💉 Total number of vaccinated individuals.
+## 📆 Daily new cases worldwide.
+## 💉 Total number of vaccinated individuals.
 This project showcases the power of SQL for extracting and analyzing complex datasets, providing valuable insights into the pandemic's impact on a global and local scale.
 
 #SQL #PostgreSQL #DataScience #COVID19 #PandemicAnalysis #BigData #DataAnalytics #HealthcareData #India #GlobalHealth 🌟
