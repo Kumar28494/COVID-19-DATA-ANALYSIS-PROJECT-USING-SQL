@@ -7,11 +7,11 @@ Here are some key insights we uncovered:
 
 ### 🌍 Global Insights:
 
-## 📅 Date-wise death tolls across the world.
+## 📅 Date-wise death tolls across the world..
 ## 🌎 Total COVID-19 cases and deaths globally.
 ## 📈 Percentage of deaths relative to the entire population.
 ## 🏅 Countries with the highest death counts.
-## 🇮🇳 India Focus:
+### 🇮🇳 India Focus:
 
 ## 🇮🇳 Date-wise death tolls in India.
 ### 📊 Total COVID-19 cases and deaths in India.
